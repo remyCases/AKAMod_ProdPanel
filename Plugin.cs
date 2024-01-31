@@ -1,4 +1,8 @@
-﻿using System;
+﻿// Copyright (C) 2024 Rémy Cases
+// See LICENSE file for extended copyright information.
+// This file is part of adventOfCode project from https://github.com/remyCases/AKAMod_ProdPanel.
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Reflection.Emit;
